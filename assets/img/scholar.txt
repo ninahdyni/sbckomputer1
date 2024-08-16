@@ -1,0 +1,9 @@
+@inproceedings{rahmawan2023analisis,
+  title={ANALISIS USER EXPERIENCE DAN REDESIGN USER INTERFACE WEBSITE LEMBAGA BANTUAN HUKUM JAKARTA DENGAN METODE HEURISTIC EVALUATION.},
+  author={Rahmawan, Fauzan Ahmat and Krisnanik, Erly},
+  booktitle={Prosiding Seminar Nasional Mahasiswa Bidang Ilmu Komputer dan Aplikasinya},
+  volume={4},
+  number={1},
+  pages={12--27},
+  year={2023}
+}
