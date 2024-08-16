@@ -1,3 +1,8 @@
+Login Admin
+
+username: sbckomputer
+password: admin
+
 Thanks for downloading this template!
 
 Template Name: Squadfree
